@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:5000";
+const BASE_URL = "https://jixxcafe-server.onrender.com";
 
 export const saveResult = async (data) => {
 
